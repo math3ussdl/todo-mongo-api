@@ -1,0 +1,17 @@
+{
+  "nome": "Lista exemplo",
+  "todos": [
+    {
+      "descricao": "fazer a licao de casa",
+      "status": "pendente"
+    },
+    {
+      "descricao": "lavar os pratos",
+      "status": "em andamento"
+    },
+    {
+      "descricao": "varrer a casa",
+      "status": "concluida"
+    }
+  ]
+}
