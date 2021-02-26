@@ -9,13 +9,19 @@
 ## Install
 
 ```sh
-yarn install
+yarn
 ```
 
 ## Usage
 
 ```sh
-yarn run start
+yarn start
+```
+
+### OR
+
+```sh
+yarn start::dev
 ```
 
 ## Show your support
